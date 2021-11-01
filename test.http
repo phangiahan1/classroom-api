@@ -1,0 +1,9 @@
+POST : http://localhost:4000/addClassroom
+
+Content-Type: application/json
+{
+    "className":"THDC",
+    "section":"Tin hoc dai cuong", 
+    "subject":"Tin hoc", 
+    "room":"18_4" 
+}
